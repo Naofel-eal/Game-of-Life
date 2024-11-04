@@ -1,0 +1,23 @@
+h1 {
+    text-align: center;
+    color: #369;
+    font-family: Arial, sans-serif;
+}
+
+.game {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 100%;
+}
+
+app-control-panel {
+    width: 30%;
+    height: 100%;
+}
+
+app-grid {
+    width: 100%;
+    height: 100%;
+}
